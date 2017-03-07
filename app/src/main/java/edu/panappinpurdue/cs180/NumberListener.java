@@ -28,7 +28,7 @@ public class NumberListener implements View.OnClickListener {
     }
 
     public void setColor() {
-        //MainActivity.changeColor();
+        MainActivity.changeColor();
         view.setBackgroundColor(Color.rgb(0, 255, 127));
 
     }
